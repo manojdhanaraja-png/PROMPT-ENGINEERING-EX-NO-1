@@ -86,5 +86,6 @@ Step 7: Finalize and Export
 7.3 Prepare a brief presentation if required (optional)
 
 # Output:
-
+[Manoj - ex 1.pdf](https://github.com/user-attachments/files/24360284/Manoj.-.ex.1.pdf)
 # Result:
+Comprehensive Report on the Fundamentals of Generative AI and Large Language Models is created successfully
